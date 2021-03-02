@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: f204af77329feca429817a77c1421b47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4638078165498462608
+    second: MarioRun1
+  - first:
+      213: 7535359878243092818
+    second: MarioRun2
+  - first:
+      213: -3905991941800648080
+    second: MarioRun3
+  - first:
+      213: 1554904934580016266
+    second: Sprite_Mario_3
+  - first:
+      213: -3171580361127328770
+    second: Sprite_Mario_4
+  - first:
+      213: -7207716073158996441
+    second: Sprite_Mario_5
+  - first:
+      213: 5693412132100505836
+    second: Sprite_Mario_6
+  - first:
+      213: -1236749345658543323
+    second: Sprite_Mario_7
+  - first:
+      213: -5672653749854861051
+    second: MarioThrow1
+  - first:
+      213: 3387244394707617170
+    second: MarioThrow2
+  - first:
+      213: 8537440539389071336
+    second: MarioThrow3
+  - first:
+      213: 1357806328429647872
+    second: MarioDodge1
+  - first:
+      213: -598077030875622236
+    second: MarioDodge2
+  - first:
+      213: -7156801889515416839
+    second: FatMario
+  - first:
+      213: 7980998295276442
+    second: Sprite_Mario_14
+  - first:
+      213: 5708472064614676027
+    second: MarioBack
+  - first:
+      213: -9218963548213284818
+    second: Sprite_Mario_16
+  - first:
+      213: -8647316737487248356
+    second: Sprite_Mario_17
+  - first:
+      213: 4567098361401889599
+    second: Sprite_Mario_18
+  - first:
+      213: 7479211179968422096
+    second: Sprite_Mario_19
+  - first:
+      213: -1941499065591448453
+    second: Sprite_Mario_20
+  - first:
+      213: -4629119407898994041
+    second: Sprite_Mario_21
+  - first:
+      213: -5511660270334715914
+    second: Sprite_Mario_22
+  - first:
+      213: 6347872850137420558
+    second: MarioDead1
+  - first:
+      213: 1855175835024724854
+    second: MarioDead2
+  - first:
+      213: -3598681989761177212
+    second: MarioDead3
+  - first:
+      213: 7762986594224042539
+    second: MarioDead4
+  - first:
+      213: -1724382975095085423
+    second: Sprite_Mario_27
+  - first:
+      213: 4008937936191787000
+    second: MarioJump1
+  - first:
+      213: 3336705031637967656
+    second: MarioJump2
+  - first:
+      213: -5444284473453412056
+    second: MarioJump3
+  - first:
+      213: -3239394828119450290
+    second: Sprite_Mario_31
+  - first:
+      213: 5513065419899303231
+    second: Sprite_Mario_32
+  - first:
+      213: 8491002066584885046
+    second: Sprite_Mario_33
+  - first:
+      213: -7562379391476108956
+    second: Sprite_Mario_34
+  - first:
+      213: 3014445400692401966
+    second: Sprite_Mario_35
+  - first:
+      213: -6005365102188713975
+    second: Sprite_Mario_36
+  - first:
+      213: 8706566674536967793
+    second: Sprite_Mario_37
+  - first:
+      213: -3604062871113111416
+    second: Sprite_Mario_38
+  - first:
+      213: -4622941222364186104
+    second: Sprite_Mario_39
+  - first:
+      213: 5778968304725270991
+    second: MarioLookLeft1
+  - first:
+      213: 7599126599415133676
+    second: Sprite_Mario_41
+  - first:
+      213: 6996871328585145904
+    second: Sprite_Mario_42
+  - first:
+      213: 8998336714475331594
+    second: Sprite_Mario_43
+  - first:
+      213: 1329661449039804243
+    second: Sprite_Mario_44
+  - first:
+      213: 3354623957607304124
+    second: Sprite_Mario_45
+  - first:
+      213: 7368133104323931243
+    second: Sprite_Mario_46
+  - first:
+      213: 3302078408146908689
+    second: MarioFire1
+  - first:
+      213: -4040994371160570336
+    second: MarioFire2
+  - first:
+      213: 2070263079612885921
+    second: MarioFire3
+  - first:
+      213: -5021473000565013323
+    second: Sprite_Mario_50
+  - first:
+      213: -3917910848853407703
+    second: BrownMario
+  - first:
+      213: 2024578721505582386
+    second: BrownMario2
+  - first:
+      213: -991126873710766664
+    second: MarioParachute1
+  - first:
+      213: -2451452407061476743
+    second: MarioParachute2
+  - first:
+      213: -9079682761693699110
+    second: MarioParachute3
+  - first:
+      213: 102199271187479275
+    second: Sprite_Mario_56
+  - first:
+      213: 4596178438584576817
+    second: Sprite_Mario_57
+  - first:
+      213: -223910129502012368
+    second: Sprite_Mario_58
+  - first:
+      213: -7734174553045002093
+    second: Sprite_Mario_59
+  - first:
+      213: 1622122130505264950
+    second: Sprite_Mario_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioRun1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09108079483cd5040800000000000000
+      internalID: 4638078165498462608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRun2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 78
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259096d92e9f29860800000000000000
+      internalID: 7535359878243092818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRun3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722f6516012bc9c0800000000000000
+      internalID: -3905991941800648080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioThrow1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5090d12387fa641b0800000000000000
+      internalID: -5672653749854861051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioThrow2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950bf1a4d8e10f20800000000000000
+      internalID: 3387244394707617170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioThrow3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef0e41ffe41b7670800000000000000
+      internalID: 8537440539389071336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDodge1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00893d769a5e7d210800000000000000
+      internalID: 1357806328429647872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDodge2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a49652fb1433b7f0800000000000000
+      internalID: -598077030875622236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatMario
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 75
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d69f899eedac90800000000000000
+      internalID: -7156801889515416839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBack
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 75
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3639951911983f40800000000000000
+      internalID: 5708472064614676027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDead1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 76
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0399c789bc281850800000000000000
+      internalID: 6347872850137420558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDead2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739982c798eeb910800000000000000
+      internalID: 1855175835024724854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDead3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 54
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48960b40cc9ee0ec0800000000000000
+      internalID: -3598681989761177212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDead4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 52
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f7d86d2babbb60800000000000000
+      internalID: 7762986594224042539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioJump1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 45
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff8c4d00db92a730800000000000000
+      internalID: 4008937936191787000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioJump2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 45
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232a033c8b5e4e20800000000000000
+      internalID: 3336705031637967656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioJump3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82182afcd140274b0800000000000000
+      internalID: -5444284473453412056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioLookLeft1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 42
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1246b0e05033050800000000000000
+      internalID: 5778968304725270991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFire1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116751a21d653dd20800000000000000
+      internalID: 3302078408146908689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFire2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260f9f87018be7c0800000000000000
+      internalID: -4040994371160570336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownMario
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928817847d8c0a9c0800000000000000
+      internalID: -3917910848853407703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownMario2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 12
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d972bde9fb81c10800000000000000
+      internalID: 2024578721505582386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioParachute1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 10
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5502d0c5fce32f0800000000000000
+      internalID: -991126873710766664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioParachute2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 9
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a035d2601bafdd0800000000000000
+      internalID: -2451452407061476743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioParachute3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 9
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3620c62ac7ef180800000000000000
+      internalID: -9079682761693699110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
